@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@google-cloud/logging": "^1.0.2",
+    "@google-cloud/logging-bunyan": "^0.5.0",
+    "@google-cloud/logging-winston": "^0.4.1",
+    "@google-cloud/trace-agent": "^2.1.3",
+    "bunyan": "^1.8.12",
+    "express": "^4.15.4",
+    "fluent-logger": "^2.4.0",
+    "shimmer": "^1.1.0",
+    "winston": "^2.3.1"
+  }
+}
